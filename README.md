@@ -35,7 +35,6 @@ Calculates Body Mass Index (BMI) using a user-defined Python function.
 Python-Fundamentals-Assignment-3/
 │
 ├── Assignment3.ipynb
-├── Python Funda Assignment 3 - While Loop, For loop and Functions.pdf
 └── README.md
 ```
 
